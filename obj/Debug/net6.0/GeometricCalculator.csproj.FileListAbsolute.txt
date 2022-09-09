@@ -1,0 +1,12 @@
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\bin\Debug\net6.0\GeometricCalculator.deps.json
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\bin\Debug\net6.0\GeometricCalculator.dll
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\bin\Debug\net6.0\GeometricCalculator.pdb
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\obj\Debug\net6.0\GeometricCalculator.csproj.AssemblyReference.cache
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\obj\Debug\net6.0\GeometricCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\obj\Debug\net6.0\GeometricCalculator.AssemblyInfoInputs.cache
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\obj\Debug\net6.0\GeometricCalculator.AssemblyInfo.cs
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\obj\Debug\net6.0\GeometricCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\obj\Debug\net6.0\GeometricCalculator.dll
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\obj\Debug\net6.0\refint\GeometricCalculator.dll
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\obj\Debug\net6.0\GeometricCalculator.pdb
+C:\Users\vit20\source\repos\GeometricCalculator\GeometricCalculator\obj\Debug\net6.0\ref\GeometricCalculator.dll
